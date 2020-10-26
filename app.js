@@ -1,24 +1,38 @@
 const reviews = [
     {
         id: 1,
-        name: 'Alan Walker',
-        job: 'Web Developer',
-        img: 'assets/person1.jpeg',
-        message: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rutrum eu metus ac molestie. Etiam ultricies, libero non feugiat dapibus, elit eros aliquet orci, vel elementum tortor neque ut lorem.'
+        name: 'Manuel Dávila',
+        job: 'Programador en Wix',
+        img: 'assets/madbot.jpg',
+        message: 'Just kidding'
     },
     {
         id: 2,
-        name: 'Nickelblack',
-        job: 'Product Design',
-        img: 'assets/person2.jpeg',
-        message: 'Fusce vestibulum mattis convallis. Nunc vitae volutpat est. Mauris at risus porta velit mollis mattis vitae ac mi. Proin faucibus eget lacus et malesuada.'
+        name: 'Edson Huamani',
+        job: 'PHP Developer',
+        img: 'assets/sunqupacha.jpeg',
+        message: 'Por un Perú tecnológico'
     },
     {
         id: 3,
-        name: 'Imagine Dragons',
-        job: 'Mobile Developer',
-        img: 'assets/person3.jpg',
-        message: 'Vivamus cursus, ipsum eget rhoncus scelerisque, nunc quam semper augue, et finibus diam est vitae elit. Donec eget turpis in libero sodales fermentum.'
+        name: 'Thom Maurick',
+        job: 'Backend Developer',
+        img: 'assets/golang.svg',
+        message: 'Hola Erick'
+    },
+    {
+        id: 4,
+        name: 'César Ortega',
+        job: 'Backend Developer',
+        img: 'assets/linux.png',
+        message: 'Hola mundo'
+    },
+    {
+        id: 5,
+        name: 'Erick Rivas',
+        job: 'Programador de la Nasa',
+        img: 'assets/penguin.png',
+        message: 'Hola Thom'
     }
 ]
 

@@ -50,6 +50,12 @@ main .title .underline {
     margin-bottom: 3rem;
 }
 
+@media screen and (min-width: 600px) {
+    main .title .underline {
+        width: 10%;
+    }
+}
+
 .review {
     width: 80%;
     padding: 50px;
@@ -59,6 +65,18 @@ main .title .underline {
     align-items: center;
     box-shadow: 1px 5px 5px rgba(0, 0, 0, .15);
     letter-spacing: 2px;
+}
+
+@media screen and (min-width: 600px) {
+    .review {
+        width: 60%;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .review {
+        width: 50%;
+    }
 }
 
 .img-container {
@@ -80,7 +98,7 @@ main .title .underline {
 }
 
 #info {
-    letter-spacing: normal;
+    letter-spacing: 1px;
     text-align: justify;
     margin: 1.5rem auto;
 }
