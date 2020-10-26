@@ -3,7 +3,7 @@ const reviews = [
         id: 1,
         name: 'Manuel Dávila',
         job: 'Programador en Wix',
-        img: 'assets/madbot.jpg',
+        img: 'assets/madbot.JPG',
         message: 'Just kidding'
     },
     {
